@@ -1,2 +1,2 @@
 # DEMO
-This is my first Folder
+This is My first Git Folder
